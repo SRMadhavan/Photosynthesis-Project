@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body
+{
+background-color: #008800;
+}
+h1 {
+font-size: 60px;
+}
+p1 {
+color: black;
+}
+.mystyle
+ {
+font-size: 30px;
+color: #ADD8E6;
+ }
+.mystyle1
+ {
+font-size: 26px;
+color: #FFFF00;
+ }
+.mystyle2
+{
+    font-size:26px;
+    color: #000000;
+}
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  z-index: 98;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  background-color: #000066;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+#myBtn:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    <p>
+        </p>
+        <center>
+   <img  width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.communityhealthandhealing.com%2Fwp-content%2Fuploads%2F2017%2F06%2Fcropped-leaf-logo-192x192.png&f=1&nofb=1" alt="alternatetext">
+   </center>
+   <hr color='#ccccff'>
+<h1 style="color:lightblue"; align="center">Photosynthesis</h1>
+<div class="mystyle";>Plants are unique and essential in our environment, and their distinctivity 
+                      comes from the process called photosynthesis. Photosynthesis is a process in which 
+                      autotrophs convert water, carbon dioxide, and sunlight into glucose and other    
+                      beneficial molecules. More precisely, the equation for photosynthesis is
+                      6H<sub>2</sub>O + 6CO<sub>2</sub> + sunlight to C<sub>6</sub>O<sub>12</sub>H<sub>6</sub> + O2. There are two types of
+                     photosynthesis, <b> light dependent and light independent </b>. Light dependent reactions
+                     occur when plants have access to sunlight to produce energy called <b>ATP</b>
+                    (Adenosine Triphosphate). However, light independent reactions don't require
+                    sunlight to partake in photosynthesis, thus it can occur both during the day or night.
+    <h1 align="center"> Importance of Photosynthesis</h1>
+    <p>Photosynthesis is essential in life because photosynthesis provides products that humans use, oxygen. Cellular respiration requires oxygen to act as the final electron acceptor, and plants provide 
+        that quality element. On the other spectrum, plants also need CO<sub>2</sub> to undergo photosynthesis. The glucose, produced in photosynthesis, is also beneficial to humans as humans consume glucose.
+        The work the plants do is essential for the environement as different organisms utilze the oxygen.<br>
+         <h1 style="text-align: center" class="mystyle";> </h>
+         <img  width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb2%2F8c%2F33%2Fb28c33de3e37cb7e77ee48b610657970.png&f=1&nofb=1" alt="alternatetext"> 
+                <img width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-0oTppgkweBM%2FXc57kjz7-_I%2FAAAAAAAAAEE%2FE81j5J8gIhsNFoNTxOAUCMHpgbxmcA7VQCLcBGAsYHQ%2Fs640%2Fbiology%252Bphotosynthesis.gif&f=1&nofb=1" alt="alternatetext">
+         <img width="300" height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flyonsdenfitness.co.uk%2Fwp-content%2Fuploads%2F2020%2F06%2FiStock-1081051970.jpg&f=1&nofb=1" alt="alternatetext">
+
+</div> <br>
+<br>
+<table cellpadding=0 cellspacing=0 border=0 bordercolor="#ADDF00" align='center' width= 500px><tr>
+    <td style="background-color: #008800; font-size:20px;"> <p><a href="javascript:showdiv('Light Dependent')">Light Dependent</a></p></td>
+    <td style="background-color: #008800; font-size:20px;"> <p><a href="javascript:showdiv('Light Independent')">Light Independent</a></p></td>
+</tr></table>
+<br>
+<div id='Light Dependent' style="visibility:hidden;position:absolute;background-color: darkgreen; height:1400px; color: yellow; font-size: 21px">
+<h3 style= "text-align:center">Light Dependent</h3>
+    Light-dependent reactions occur in the thylakoid membrane, and the primary goal of this reaction is to provide energy for the cell. Though cellular respiration can also produce energy, light-independent
+    the energy is used for the next phase in ATP.
+    <center>
+ <img  width="900" src="https://j.gifs.com/vOEZYA.gif" alt="alternatetext"> <h6><i> Image Source: https://j.gifs.com/vOEZYA.gif</i></h6>
+    </center> 
+    <h4>Photosytem II</h4>
+    <p> Sunlight is electromagnetic radiation that travels through wavelengths, and sunlight also contains high amounts of energy. In the thylakoid membranes consist a pigment molecule called chlorophyll
+         that is used to absorb sunlight. Photosytem II uses this pigment to absorb the energy from sunlight and release it on electrons that are made by spilting water. Spliting a water (which is done by 
+         enzymes) molecule produces 2 Hydrogen atoms, which are then turned into Hydrogen ions and electrons, and a byproduct of oxygen. In the picture, the electrons are being excited by 
+         sunlight in the photosystem II.
+        <h6> Fun fact: The chlorophyll reflects green color from the sunlight, which makes it attain a green pigment. </h6>
+    <h4> Electron Transport Chain </h4>
+    </p>
+    <P>Then, the electrons travel through the Electron Transport Chain and begin losing energy there as they are transported. An Electron Transport Chain contains series of protein complexes that shuttle the 
+        electrons that were from photosystem II. While doing this, they extract the energy from the electrons to guide the hydrogen ions to the ATP synthase. This path is called the proton gradient, where
+        the electrons are guiding the hydrogen ions in a path from the usage of the electron transport chain. In the depiction, the electrons are travelling through the electron transport chain to the next 
+        complex called the cytrosome complex. This complex also like a carrier of electrons and they capture the electrons with plastoquinone and relocate the electrons to photosystem 1.
+        <h6> Fun Fact: Photosytem I was discovered before Photosystem II, by Louis Duysens, thus why it is named it's manner. People confuse between two of the photosytems, but photosystem II comes before
+            photosystem I.
+    <h4> Photosytem I </h4></p>
+    <P> Since there was a loss in energy, electrons re-energize their energy in Photosystem I through sunlight. The function of this process is akin to the process of photosytem II, where the electrons 
+        are resupplied with energy from sunlight. After the electrons successfully have guided the hydrogen ions to the ATP synthase, NAD+ accepts them to form NADPH. NAD+ is an electron carrier molecule that 
+        accepts electrons. In the illustration, the electrons are being accepted by the NAD+ after they are energized by sunlight.
+    <h4>ATP Synthase </h4></p>
+    <p> Due to the hydrogen ions, the matrix in ATP synthase spins, producing energy to make ATP. By detaching and attaching its terminal phosphate group, ATP can produce energy for cellular activities. 
+        Since ATP is a unstable molecule, it phosphorylates with ease and reattaches from the energy provided from the ATP synthase.  ATP will be crucial in the next phase of photosynthesis. </p>
+</div>
+<div id='Light Independent' style="visibility:hidden;position:absolute;background-color: Black; height:1400px; color: yellow; font-size: 21px">
+    <h3 style= "text-align: center">Light Independent</h3>
+      Light Independent reactions take place in the stroma, often called the cytoplasm of the chloroplast. 
+      In the light-independent reaction, the previously obtained CO2 is anabolically converted into Glucose. 
+      This conversion is called the Calvin Cycle, named after the founder of this process Melvin Calvin. Within
+      the Calvin Cycle, there are three phases in which the CO2 is transformed into glucose, carbon fixation, 
+      reduction, and regeneration. 
+    <center>
+<img style= "text-align:center" width="700" src= "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fntn.rutgers.edu%2Fwp-content%2Fuploads%2F2020%2F10%2Fcalvincycle.gif&f=1&nofb=1" alt+"alternatetext">  <h6> <i> Image Source:http://ntn.rutgers.edu/curriculum/ </i></h6> 
+    </center>  
+    <h4>Carbon Fixaton </h4>
+    <div> The Calvin Cycle starts with the carbon fixation, where the Carbon dioxide
+      is bonded with three molecules of ribulose bisphosphate (RuBP) already present in the cycle. 
+      This molecule is very unstable, which allows an enzyme called RuBisCo (ribulose-1,5-bisphosphate 
+      carboxylase/oxygenase) to catalyze the 6-carbon molecule to two 3-carbon molecules called PGA 
+      (Phosphoglyceric acid). This new compound consists of 3 carbon atoms and a phosphate group, 
+      precisely C3 H7O7P. The carbon fixation fixes the inorganic molecule of CO2 into an organic 
+      molecule PGA. As depicted in the picture, the carbon dioxide goes in to the cycle and tranforms
+      into phospoglycerate, which is PGA.
+      <br>
+      <h4>Reduction</h4>
+      <div> After the carbon fixation process is the Reduction phase. The reduction phase converts 
+      3-PGA into six molecules of G3P (glyceraldehyde). This process is done by ATP (detaching its phosphate
+      group) and NADPH (releasing the hydrogen ion) which produces energy. Two or three of these G3P molecules
+      are used to make glucose or other food molecules. Now that the glucose is created, how can the process
+      be used to make more food molecules?
+      <br>
+      <h4> Regeneration</h4>
+      <div >Entering into the Regeneration phase, the goal of this process is
+      to recreate the RuBP molecules for more glucose production. While some G3P molecules would be used to
+      make food products, some of these molecules contribute to reforming RuBP.
+    
+    
+
+</div>
+<script>
+function showdiv(divname)
+{
+    
+  let divstatus=eval("document.getElementById('"+divname+"').style.visibility")
+  if(divstatus=="visible")
+  {
+    eval("document.getElementById('"+divname+"').style.visibility='hidden'");     
+    return;
+  }
+    document.getElementById("Light Independent").style.visibility="hidden";
+    document.getElementById("Light Dependent").style.visibility="hidden";
+
+  
+ eval("document.getElementById('"+divname+"').style.visibility='visible'");
+}
+let mybutton = document.getElementById("myBtn");
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 60 || document.documentElement.scrollTop > 60) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+</body>
+</html>
